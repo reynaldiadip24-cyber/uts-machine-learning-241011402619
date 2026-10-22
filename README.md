@@ -2,7 +2,7 @@
 
 **Nama:** Reynaldi Adi Putra Vetryanto  
 **NIM:** 241011402619  
-**Kelas:**  Reg C 
+**Kelas:** 05TPLE005
 
 ## Isi repository
 - `tugas_UTS.ipynb`: implementasi Linear Regression dan Logistic Regression menggunakan NumPy.
